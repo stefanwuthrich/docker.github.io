@@ -59,7 +59,7 @@ Returns list of documents for export. This endpoint accepts query parameters for
 
 
 | Name | Type | Description | 
-|--------|-----|
+|--------|-----|---------- |
 |   page_number | integer  | Page number - Default value = 1 |
 |   page_size | integer  | Page number - Default value = 10 |
 |   paging | string  | paging options in form of &paging=page_num,page_size. <p> **Example**: If we put “paging=1,10” as query parameter API will return first ten items. |
